@@ -24,9 +24,6 @@ Unlike wearables-only solutions, this method uses multimodal smartphone features
 
 📊 Dataset — GLOBEM Dataset (INS Waves 2018–2021)
 
-
-✅ One-Class SVM — best balance of precision & recall for anomaly detection
-
 📈 Key Results
 
 Successfully detects unexpected drops in sleep efficiency
